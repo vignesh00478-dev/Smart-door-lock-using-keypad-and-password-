@@ -48,9 +48,9 @@ When the correct password is entered, the door-lock mechanism is activated and a
 * The **buzzer** provides an audible warning when an incorrect password is entered.  
 * The system allows access only when the entered password matches the stored password.
 
-**RESULT**
+### **RESULT**
 
-**![][image1]**
+![](result..jpg)
 
 ### **Applications**
 
